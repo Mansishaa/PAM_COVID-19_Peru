@@ -1,4 +1,4 @@
-# Trabajo 04: Análisis espacial sobre contagios de Personas Adultas Mayores por COVID-19, Perú.
+# Análisis espacial sobre contagios de Personas Adultas Mayores por COVID-19, Perú.
 ## 📝 Descripción de las Variables
 
 | *Variable*         | *Descripción*                                                                                         |
