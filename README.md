@@ -17,4 +17,4 @@
 
 **FUENTE**: https://www.datosabiertos.gob.pe/dataset/casos-positivos-por-covid-19-ministerio-de-salud-minsa/resource/690e57a6-a465-47d8-86fd
 
-## ENLACE: https://mansishaa.github.io/trabajo04/
+## ENLACE: https://mansishaa.github.io/trabajo04/](https://mansishaa.github.io/PAM_COVID-19_Peru/
